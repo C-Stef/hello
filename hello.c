@@ -1,5 +1,4 @@
 /**
- * TEST
  *  Basic Hello World Program
  */
 
